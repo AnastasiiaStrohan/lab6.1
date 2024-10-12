@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\lb6.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A023D59-CD56-431A-ADA1-17E149932314}|UnitTest6.1\\UnitTest6.1.vcxproj|C:\\Users\\Admin\\source\\repos\\lb6.1\\UnitTest6.1\\UnitTest6.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A023D59-CD56-431A-ADA1-17E149932314}|UnitTest6.1\\UnitTest6.1.vcxproj|solutionrelative:UnitTest6.1\\UnitTest6.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1493E58C-6D4F-4006-9BC5-113EB09FF4E6}|lb6.1\\lb6.1.vcxproj|C:\\Users\\Admin\\source\\repos\\lb6.1\\lb6.1\\lb6.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1493E58C-6D4F-4006-9BC5-113EB09FF4E6}|lb6.1\\lb6.1.vcxproj|solutionrelative:lb6.1\\lb6.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest6.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb6.1\\UnitTest6.1\\UnitTest6.1.cpp",
+              "RelativeDocumentMoniker": "UnitTest6.1\\UnitTest6.1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb6.1\\UnitTest6.1\\UnitTest6.1.cpp",
+              "RelativeToolTip": "UnitTest6.1\\UnitTest6.1.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T15:11:39.939Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lb6.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb6.1\\lb6.1\\lb6.1.cpp",
+              "RelativeDocumentMoniker": "lb6.1\\lb6.1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb6.1\\lb6.1\\lb6.1.cpp",
+              "RelativeToolTip": "lb6.1\\lb6.1.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T16:25:54.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
